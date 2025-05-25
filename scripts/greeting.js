@@ -11,7 +11,6 @@ let phrases = [];
 for (let i = 1; i <= repetitions; i++) {
   let saludo = prompt(`Enter the greeting #${i} (for example, Hello, Goodbye...):`);
   let nombre = prompt(`Enter the name #${i} (for example, Marga, Carol...):`);
-  
-  phrases.push(`${greeting} ${name`);
-}
+} 
+
 
